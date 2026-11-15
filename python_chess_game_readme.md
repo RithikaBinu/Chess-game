@@ -12,13 +12,19 @@ A fully functional, 2D graphical chess application built in Python. This project
 ## Screenshots
 
 ### Starting Position
-![Initial Board Setup](image_76d266.png)
+![Initial Board Setup] 
+<img width="932" height="1078" alt="Screenshot 2026-11-15 213028" src="https://github.com/user-attachments/assets/9c31b944-6fe3-4e0c-9fb4-adf84bf16928" />
+
 
 ### Mid-Game (Black to Move)
-![Black's Turn](Screenshot%202026-11-15%20213143.png)
+![Black's Turn]
+<img width="933" height="1078" alt="Screenshot 2026-11-15 213143" src="https://github.com/user-attachments/assets/f85856a7-3b66-4d04-b5e7-7832454f28f8" />
+
 
 ### Move Highlighting (White to Move)
-![Highlighting Valid Moves](Screenshot%202026-11-15%20213213.png)
+![Highlighting Valid Moves]
+<img width="927" height="1078" alt="Screenshot 2026-11-15 213213" src="https://github.com/user-attachments/assets/1f694765-b340-4fc2-be60-e5f7f16083a1" />
+
 
 ## Installation and Setup
 
